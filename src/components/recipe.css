@@ -1,0 +1,14 @@
+.image {
+  object-fit: contain;
+  width: 100%;
+}
+
+.imageBox {
+  margin: auto;
+  margin-bottom: 10px;
+  width: 400px;
+  height: 170px;
+  justify-content: space-between;
+  border-radius: 30px;
+  overflow: hidden;
+}

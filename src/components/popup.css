@@ -1,0 +1,37 @@
+.popup {
+  position: fixed;
+  width: 65%;
+  height: 80%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0);
+  border-radius: 20px;
+}
+
+.popup\_inner {
+  position: absolute;
+  left: 25%;
+  right: 25%;
+  top: 25%;
+  bottom: 25%;
+  margin: auto;
+  border-radius: 20px;
+  background: white;
+}
+
+button {
+  border-radius: 5px;
+  font-family: futura;
+  font-size: 14px;
+  background: white;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+iframe {
+  margin-top: 45px;
+  border-radius: 20px;
+}
